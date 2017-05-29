@@ -21,4 +21,5 @@
 .byebug_history
 
 .idea
-.idea/*
+.idea/*/public/packs
+/node_modules

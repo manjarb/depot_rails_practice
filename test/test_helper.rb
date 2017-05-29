@@ -7,4 +7,8 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # Add more helper methods to be used by all tests here...
+  # include Capybara::DSL
+  # include Capybara::Minitest::Assertions
+  #
+  # Capybara.default_driver = :selenium
 end

@@ -55,4 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #START:jquery
 gem 'jquery-ui-rails'
 #END:jquery
-#No newline at end of file
+gem 'webpacker'
+gem 'foreman'
+gem 'capybara'
+gem 'selenium-webdriver'
