@@ -60,3 +60,7 @@ gem 'foreman'
 gem 'capybara'
 gem 'selenium-webdriver'
 gem 'chromedriver-helper'
+
+# START: i18n-js
+gem 'i18n-js'
+# END: i18n-js
